@@ -27,11 +27,11 @@ Ikuti langkah-langkah berikut untuk menjalankan skrip ini di komputermu.
 **Opsi A: Clone Repository (Jika menggunakan Git)**
 
 ```bash
-git clone [https://github.com/NAMA_USER_KAMU/NAMA_REPO_KAMU.git](https://github.com/NAMA_USER_KAMU/NAMA_REPO_KAMU.git)
-cd NAMA_REPO_KAMU
+git clone https://github.com/jihadanbs/automasi-organisir-file.git
+cd automasi-organisir-file
 ```
 
-> Ganti `NAMA_USER_KAMU` dan `NAMA_REPO_KAMU` dengan milikmu.
+> Ganti `jihadanbs` dan `automasi-organisir-file` dengan milikmu.
 
 **Opsi B: Unduh Manual**
 Unduh file `organizer.py` langsung dari repository GitHub ini.
@@ -43,10 +43,10 @@ Buka file `organizer.py` dengan teks editor favoritmu. Cari baris di bawah ini:
 ```python
 # --- PENGATURAN ---
 # GANTI DENGAN PATH LENGKAP MENUJU FOLDER YANG MAU DIRAPIKAN DI KOMPUTER KAMU!
-path_folder = r'GANTI_DENGAN_PATH_FOLDER_MILIKMU' # <-- EDIT BAGIAN INI
+path_folder = r'C:\Users\Zidan\Documents\code\automasi-organisir-file\file-berantakan'
 ```
 
-Ganti nilai `r'GANTI_DENGAN_PATH_FOLDER_MILIKMU'` dengan path lengkap ke folder yang ingin kamu rapikan.
+Ganti nilai `r'C:\Users\Zidan\Documents\code\automasi-organisir-file\file-berantakan'` dengan path lengkap ke folder yang ingin kamu rapikan.
 
 - **Contoh di Windows:** `r'C:\Users\Paino\Downloads'`
 - **Contoh di macOS/Linux:** `'/Users/Paino/Downloads'`
