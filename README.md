@@ -25,7 +25,7 @@ Proyek ini dibuat sebagai contoh program automasi level pemula yang praktis dan 
 **Opsi A: Clone Repository (Git)**
 
 ```bash
-git clone [https://github.com/jihadanbs/automasi-organisir-file.git](https://github.com/jihadanbs/automasi-organisir-file.git)
+git clone https://github.com/jihadanbs/automasi-organisir-file.git
 cd automasi-organisir-file
 ```
 
