@@ -4,7 +4,7 @@ import shutil
 print("Program Pengorganisir File Dimulai...")
 
 # mengambil path folder yang file nya berantakan
-path_folder = r"C:\Users\Zidan\Documents\code\automasi-organisir-file\file-berantakan"
+path_folder = input("📂 Masukkan path lengkap ke folder yang ingin dirapikan: ")
 
 # os.listdir() akan memberikan daftar semua nama file dan folder di dalam path_folder
 list_file = os.listdir(path_folder)
