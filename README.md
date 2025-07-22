@@ -31,8 +31,6 @@ git clone https://github.com/jihadanbs/automasi-organisir-file.git
 cd automasi-organisir-file
 ```
 
-> Ganti `jihadanbs` dan `automasi-organisir-file` dengan milikmu.
-
 **Opsi B: Unduh Manual**
 Unduh file `organizer.py` langsung dari repository GitHub ini.
 
